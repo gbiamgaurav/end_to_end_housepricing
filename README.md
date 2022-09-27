@@ -1,5 +1,8 @@
 # End_to_end_housepricing
 
+View the app here :- 
+https://pricepredictionapp1.herokuapp.com/
+
 ## Software and Tools Requirements
 
 1. [GithubAccount](https://github.com)
